@@ -24,7 +24,7 @@ Training and Validation Accuracy and Loss
 # Copyright 
 Want to edit or use this repo for your own use ?
 
-![alt text](https://i.gifer.com/2sP.gif "Granted 😂😂")
+![Granted 😂😂](https://i.gifer.com/2sP.gif "Granted 😂😂")
 
 > Granted 😂😂
 
