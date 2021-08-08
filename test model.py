@@ -2,8 +2,8 @@
 # Please save your images in Data/Petimages/external
 
 
-# import os
-# os.environ['TF_CPP_MIN_LOG_LEVEL'] = '1' 
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '1' 
 
 
 import tensorflow as tf
